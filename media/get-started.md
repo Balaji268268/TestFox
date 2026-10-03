@@ -63,5 +63,5 @@ When a run completes, it appears in the **Test Runs** section. Click on a run to
 ## Need help?
 
 - Documentation: [testfox.dev/docs](https://testfox.dev/docs)
-- Issues: [GitHub Issues](https://github.com/nicetestfox/testfox/issues)
+- Issues: [GitHub Issues](https://github.com/senthazalravi/TestFox/issues)
 - Support: [support@testfox.dev](mailto:support@testfox.dev)

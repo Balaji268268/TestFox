@@ -8,3 +8,9 @@ node_modules
 coverage/
 .testfox/
 
+# Test outputs and reports
+playwright-report/
+test-results/
+tests/playwright/reports/
+tests/**/reports/
+**/reports/*.html

@@ -165,7 +165,7 @@ export class OpenRouterClient {
                 timeout: 10000,
                 headers: {
                     'Authorization': `Bearer ${this.apiKey}`,
-                    'HTTP-Referer': 'https://github.com/testfox/testfox-vscode',
+                    'HTTP-Referer': 'https://github.com/senthazalravi/TestFox',
                     'X-Title': 'TestFox VS Code Extension'
                 }
             });
@@ -199,7 +199,7 @@ export class OpenRouterClient {
                 timeout: 15000,
                 headers: {
                     'Authorization': `Bearer ${this.apiKey}`,
-                    'HTTP-Referer': 'https://github.com/testfox/testfox-vscode',
+                    'HTTP-Referer': 'https://github.com/senthazalravi/TestFox',
                     'X-Title': 'TestFox VS Code Extension'
                 }
             });
@@ -300,7 +300,7 @@ export class OpenRouterClient {
                     timeout: 120000, // Increased to 120 seconds for better reliability
                     headers: {
                         'Authorization': `Bearer ${this.apiKey}`,
-                        'HTTP-Referer': 'https://github.com/testfox/testfox-vscode',
+                        'HTTP-Referer': 'https://github.com/senthazalravi/TestFox',
                         'X-Title': 'TestFox VS Code Extension'
                     }
                 }
@@ -519,7 +519,7 @@ Consider configuring AI API keys for more comprehensive and context-aware test c
                     timeout: 5000,
                     headers: {
                         'Authorization': `Bearer ${this.apiKey}`,
-                        'HTTP-Referer': 'https://github.com/testfox/testfox-vscode',
+                        'HTTP-Referer': 'https://github.com/senthazalravi/TestFox',
                         'X-Title': 'TestFox VS Code Extension'
                     }
                 });
@@ -668,7 +668,7 @@ Consider configuring AI API keys for more comprehensive and context-aware test c
                 timeout: 10000,
                 headers: {
                     'Authorization': `Bearer ${this.apiKey}`,
-                    'HTTP-Referer': 'https://github.com/testfox/testfox-vscode',
+                    'HTTP-Referer': 'https://github.com/senthazalravi/TestFox',
                     'X-Title': 'TestFox VS Code Extension'
                 }
             });
@@ -692,7 +692,7 @@ Consider configuring AI API keys for more comprehensive and context-aware test c
                 timeout: 15000,
                 headers: {
                     'Authorization': `Bearer ${this.apiKey}`,
-                    'HTTP-Referer': 'https://github.com/testfox/testfox-vscode',
+                    'HTTP-Referer': 'https://github.com/senthazalravi/TestFox',
                     'X-Title': 'TestFox VS Code Extension'
                 }
             });

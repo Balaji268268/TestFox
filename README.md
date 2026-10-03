@@ -7,7 +7,7 @@
 [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-blue?logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=TestFox.testfox)
 [![OpenVSX](https://img.shields.io/badge/OpenVSX-Registry-green)](https://open-vsx.org/extension/TestFox/testfox)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/Version-7.4.0-purple)]()
+[![Version](https://img.shields.io/visual-studio-marketplace/v/TestFox.testfox)](https://marketplace.visualstudio.com/items?itemName=TestFox.testfox)
 
 > Generate and run comprehensive tests for your projects.
 > Works out of the box with rule-based generation. Add AI for smarter tests.
